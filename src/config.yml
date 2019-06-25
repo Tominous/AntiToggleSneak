@@ -6,8 +6,8 @@
 mode: "silent"
 
 # Commands to be ran via Console if mode is kick or ban.
-kick: "kick %player% ToggleSneak -s"
-ban: "ban %player% ToggleSneak -s"
+kick: "kick %player% Blacklisted Modification - ToggleSneak -s"
+ban: "ban %player% Blacklisted Modification - ToggleSneak -s"
 
 # Message to be sent if mode is verbal.
-verbal: "&cToggle Sneak is not allowed. Your action has been cancelled."
+verbal: "&cToggle Sneak is not allowed on the network. Your action has been cancelled."
